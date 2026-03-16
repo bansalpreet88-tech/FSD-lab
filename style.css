@@ -31,6 +31,13 @@ gap:24px;
 text-decoration:none;
 color:#cbd5f5;
 font-size:14px;
+} 
+
+.profile-photo{
+  width: 90px;
+  height:90px;
+  bodrer-radius: 50%;
+  object-fit: cover;
 }
 
 /* HERO */
